@@ -16,7 +16,14 @@ Try using [RedisInsight](https://redis.com/redis-enterprise/redis-insight/) to c
 
 ## Up and Running with the Code
 
-First, install dependencies:
+First, clone the repo:
+
+```bash
+$ git clone https://github.com/redis-developer/node-redis-json-demo.git
+$ cd node-redis-json-demo
+```
+
+Next, install dependencies:
 
 ```bash
 $ npm install
