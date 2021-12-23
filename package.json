@@ -1,0 +1,21 @@
+{
+  "name": "redis-json-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Redis JSON demo with node-redis",
+  "main": "json_demo.js",
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "start": "node json_demo.js"
+  },
+  "keywords": [
+    "redis"
+  ],
+  "author": "Redis Developer",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^4.0.1"
+  }
+}
